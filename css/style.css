@@ -1,0 +1,54 @@
+@charset "utf-8";
+div.logo {
+	color: #ff7148;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-style: normal;
+	font-variant: small-caps;
+	font-size: x-large;
+	font-weight: bolder;
+	text-align: left;
+	padding-left: 120px;
+	margin-bottom:0;
+}
+header {
+	background-color: #393939;
+	margin-bottom:0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    float: left;
+	display: inline;
+}
+a {
+	display: block;
+	width: 200px;
+	color: #FFFFFF;
+	text-align: center;
+	text-decoration: none;
+	border: thin double #000000;
+}
+footer {
+	background-color: #393939;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-variant: normal;
+	font-size: x-large;
+	float: none;
+
+}
+body {
+	border: thick solid #000000;
+	background-color: #999967;
+}
+
+.content {
+	
+}
